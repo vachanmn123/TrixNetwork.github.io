@@ -5,6 +5,7 @@
     padding-left: 50px;
 }
 
+
 .row {
     padding-left: 50px;
     padding-right: 50px;
@@ -30,7 +31,7 @@
 }
 
 .gamemode-info {
-    color: antiquewhite;
+    color: whitesmoke;
 }
 
 .server_info {
@@ -40,9 +41,33 @@
     padding-right: 50px;
 }
 
+.learn_more {
+    padding-right: 12px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+    border-width: 1px;
+    border-color: #0d6efd;
+    height: 50px;
+    border-radius: .25rem;
+    line-height: 1.5;
+    font-size: 1rem;
+}
+
+.learn_more_txt {
+    padding-right: 12px;
+    padding-left: 12px;
+    border-color: #0d6efd;
+}
 
 .gamemode-column :after {
     content: "";
     display: table;
     clear: both;
+}
+
+
+.learn_more:hover {
+    background-color: #0d6efd;
+    color: honeydew;
 }

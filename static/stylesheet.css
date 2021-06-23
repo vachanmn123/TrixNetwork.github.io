@@ -1,0 +1,48 @@
+.gamemode-column {
+    float: left;
+    width: 33.33%;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.row {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.about-header {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: gainsboro;
+}
+
+.gamemode-icon {
+    height: 40px;
+    background-image: url();
+}
+
+.Gamemode-header {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: antiquewhite;
+}
+
+.gamemode-info {
+    color: antiquewhite;
+}
+
+.server_info {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+.gamemode-column :after {
+    content: "";
+    display: table;
+    clear: both;
+}

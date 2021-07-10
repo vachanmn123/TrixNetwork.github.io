@@ -66,6 +66,14 @@
     clear: both;
 }
 
+.news-item-header {
+    color: antiquewhite;
+}
+
+.news-item-body {
+    color: antiquewhite;
+}
+
 
 .learn_more:hover {
     background-color: #0d6efd;

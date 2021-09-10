@@ -67,8 +67,3 @@ button {
         transform: translate(-50%, -20px);
     }
 }
-
-.footer {
-    position: fixed;
-    bottom: 0px;
-}

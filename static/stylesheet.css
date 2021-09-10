@@ -5,6 +5,7 @@
     padding-left: 50px;
 }
 
+
 .row {
     padding-left: 50px;
     padding-right: 50px;
@@ -27,7 +28,6 @@
     padding-left: 50px;
     padding-right: 50px;
     color: antiquewhite;
-    text-align: center;
 }
 
 .gamemode-info {
@@ -39,12 +39,6 @@
     padding-bottom: 50px;
     padding-left: 50px;
     padding-right: 50px;
-    text-align: center;
-}
-
-.server_info h1 {
-    padding-bottom: 30px;
-    text-align: center;
 }
 
 .learn_more {
@@ -79,6 +73,7 @@
 .news-item-body {
     color: antiquewhite;
 }
+
 
 .learn_more:hover {
     background-color: #0d6efd;

@@ -1,5 +1,5 @@
-# TheMatrixDiscord.github.io
+# TrixMC.github.io
 
-The Matrix Discord server’s website
+The Trix Network server’s website
 
 Single page landing page website for the trix network.

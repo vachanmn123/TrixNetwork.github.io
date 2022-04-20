@@ -92,7 +92,7 @@ strong {
 }
 
 .trix:hover {
-    color: rgba(0, 85, 177, 1);
+    color: lightskyblue;
     cursor: pointer;
 }
 
